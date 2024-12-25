@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main_container {
+    max-width: 1604px;
+    width: 100%;
+    height: 2088px;
+    padding: 96px;
+    margin: 0 auto;
+    background: #1B0E0F;
+    margin-top: 237px;
+}
+
+#blog_container {
+    max-width: 1280px;
+    width: 100%;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#blog_p {
+    color: #002AFE;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+
+}
+
+#blog_h {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px;
+    letter-spacing: -0.96px;
+}
+
+#news_p {
+    margin-top: 24px;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+#white_box {
+    max-width: 1412px;
+    width: 100%;
+    height: 1896px;
+    padding: 96px 0px;
+    background: #FFF;
+}
+
+
+.design_container {
+    max-width: 1280px;
+    width: 100%;
+    height: 462px;
+    margin: 0 auto;
+    margin-top: 56px;
+    text-align: center;
+    font-size: 0;
+}
+
+.collaboration_content {
+    display: inline-block;
+    max-width: 584px;
+    width: 100%;
+    height: 275px;
+    display: inline-block;
+    margin-bottom: 100px;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 16px;
+    vertical-align: middle;
+    text-align: left;
+    margin-left: 96px;
+}
+
+
+.design_container img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.design_p {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.designers_h {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin-top: 8px;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 544px;
+    width: 100%;
+    height: 32px;
+}
+
+.collaboration_p {
+    max-width: 584px;
+    height: 143px;
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8px;
+}
+
+.natali_box {
+    max-width: 130px;
+    width: 100%;
+    height: 40px;
+    margin-top: 24px;
+}
+
+.natali {
+    vertical-align: middle;
+}
+
+.natali_text {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 82px;
+    width: 100%;
+    height: 40px;
+}
+
+.natali_p {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px
+}
+
+.natali_date {
+    color: #535862;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px
+}
+
+.arrow {
+    vertical-align: middle;
+    margin-top: 8px;
+}
